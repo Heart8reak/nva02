@@ -1,3 +1,14 @@
 .intro {
-    background-color: lightpink;
+    background-color: white;
+    display: flex;
+
+    .vidContainer {
+
+        video {
+            object-fit: cover;
+            width: 100%;
+            height: 100%;
+            position: absolute;
+        }
+    }
 }

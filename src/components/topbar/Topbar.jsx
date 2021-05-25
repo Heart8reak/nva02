@@ -9,7 +9,6 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
                     <a href="#intro" className="logo">Nona White 14</a>
                 </div>
 
-                <h2>Is this working</h2>
 
                 <div className="right">
                     <div className="hamburger" onClick={() => setMenuOpen(!menuOpen)}>
