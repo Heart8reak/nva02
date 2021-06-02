@@ -6,7 +6,7 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
             <div className="wrapper">
 
                 <div className="left">
-                    <a href="#intro" className="logo">Nona White 14</a>
+                    <a href="#intro" className="logo">NVA 2020-2021</a>
                 </div>
 
 
